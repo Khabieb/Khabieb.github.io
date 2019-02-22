@@ -1,0 +1,11 @@
+h2 {color: brown;font-family:sans-serif;}
+
+.putih {color: white}
+.bening {opacity: 0.5}
+html{
+    background:url('lapangan.jpg') repeat center center fixed;
+    background-size:cover ;
+    }
+body{
+  color: white;
+ 
